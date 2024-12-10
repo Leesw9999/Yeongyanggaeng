@@ -14,10 +14,9 @@
 5. OpenFoodFacts API를 통해 외부 데이터도 불러온다.
 
 ## 관련 연구
-![image](https://github.com/user-attachments/assets/333eb65d-91f1-4fc6-a758-75d4d59b19b2 ![image](https://github.com/user-attachments/assets/b25aed88-f717-4d9d-96bc-e2b3e05a3f48)
-
-
- Lifesum은 건강 관리와 식단 추적을 위한 인기 있는 애플리케이션으로 사용자들이 건강한 식습관을 형성하고 유지할 수 있도록 다양한 기능을 제공하여, 체중 관리뿐만 아니라 전반적인 건강 증진을 도와줍니다.
+![image](https://github.com/user-attachments/assets/333eb65d-91f1-4fc6-a758-75d4d59b19b2
+![image](https://github.com/user-attachments/assets/b25aed88-f717-4d9d-96bc-e2b3e05a3f48)
+Lifesum은 건강 관리와 식단 추적을 위한 인기 있는 애플리케이션으로 사용자들이 건강한 식습관을 형성하고 유지할 수 있도록 다양한 기능을 제공하여, 체중 관리뿐만 아니라 전반적인 건강 증진을 도와줍니다.
 
 
 ## 개발 방법론
