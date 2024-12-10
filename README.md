@@ -12,6 +12,7 @@
 3. 데이터 관리 모듈은 데이터베이스 모델과 상호작용하고, SQLite DB에서 데이터를 가져온다.
 4. 인증 모듈은 데이터베이스와 상호작용하여 사용자 인증을 처리한다.
 5. OpenFoodFacts API를 통해 외부 데이터도 불러온다.
+
 ![image](https://github.com/user-attachments/assets/8a98eb75-4731-45e5-ac23-3d828d87f6cb)
 
 
